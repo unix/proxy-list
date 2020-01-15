@@ -1,0 +1,18 @@
+# keyword
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,yarn
+DOMAIN-KEYWORD,npm
+
+
+# domain
+DOMAIN-SUFFIX,leetcode.com
+DOMAIN-SUFFIX,hotjar.com
+DOMAIN-SUFFIX,pusher.com
+DOMAIN-SUFFIX,circleci.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,algolia.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,lambdas.dev
+DOMAIN-SUFFIX,now.sh
+DOMAIN-SUFFIX,zeit.co
+DOMAIN-SUFFIX,gitbooks.io

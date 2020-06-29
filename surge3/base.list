@@ -31,3 +31,6 @@ DOMAIN-SUFFIX,battle.net
 
 # force-dns
 DOMAIN-SUFFIX,git.chengfayun.com,force-remote-dns
+DOMAIN-SUFFIX,git.chengfayun.net,force-remote-dns
+DOMAIN-SUFFIX,vpn-server.chengfayun.net,force-remote-dns
+IP-CIDR,139.219.141.33,DIRECT

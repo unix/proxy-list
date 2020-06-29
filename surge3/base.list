@@ -28,3 +28,6 @@ DOMAIN-SUFFIX,codesandbox.io
 
 
 DOMAIN-SUFFIX,battle.net
+
+# force-dns
+DOMAIN-SUFFIX,git.chengfayun.com,force-remote-dns
